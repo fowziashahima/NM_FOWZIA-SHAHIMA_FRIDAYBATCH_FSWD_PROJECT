@@ -1,17 +1,13 @@
+# NM_FOWZIA-SHAHIMA_FRIDAYBATCH_FSWD_PROJECT
+
 Project implemented by: 
 
+Name: FOWZIA SHAHIMA N.A
 
-Name:FOWZIA SHAHIMA.N.A
+ID: au960221104057
 
+College name: Arunachala College of Engineering For Women
 
-ID:au960221104057
+username: root
 
-
-College name: ARUNACHALA COLLEGE OF ENGINEERING FOR WOMEN
-
-
-username: STUDENT
-
-
-Password: 11111
-
+Password: root
